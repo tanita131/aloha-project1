@@ -1,13 +1,4 @@
-/* section title */
-/******************************
-Typography
-******************************/
-/******************************
-Colours
-******************************/
-/******************************
-Screen Sizes
-******************************/
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -358,7 +349,7 @@ header {
        width: 90%;
        display: block;
        margin: 0 auto; 
-       font-size: 14px;
+       font-size: 16px;
        line-height: 2.25;
        color: #2d2d2d;
        font-family: 'raleway';
@@ -401,7 +392,6 @@ header {
         font-size: 1.7rem;
         text-transform: uppercase;
         font-family: "raleway", sans-serif;
-        font-weight: bold;
         font-style: normal;
         text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8); 
         }
@@ -546,7 +536,7 @@ header {
 
          @media (min-width: 600px) {
         .mostLoved .carousel img {
-          width: 60%; }
+          width: 70%; }
          }
 
         .mostLoved .carousel .flickity-prev-next-button .arrow {
@@ -557,12 +547,12 @@ header {
          width: 100%;
          height: auto;
          text-align: center;
-        /*counter-increment: carousel-cell; */
+        
         }
 
          @media (min-width: 600px) {
          .mostLoved .carousel .carousel-cell {
-        width: 50%; } 
+         width: 50%; } 
         }
 
          @media (min-width: 1240px) {
@@ -689,15 +679,17 @@ footer {
       display: flex;
       justify-content: center;
      flex-direction: column; 
+     color:white;
      }
 
-    footer .container p, footer .container span, footer .container li {
+      .container {
       font-family: "playfair", serif;
       line-height: 1.5; 
+      color:white;
       }
 
       @media (min-width: 600px) {
-     footer .container p, footer .container span, footer .container li {
+      .container  {
       font-size: 1rem; }
        }
 
@@ -712,7 +704,7 @@ footer {
       padding-top: 0; } 
       }
 
-     footer .contactInfo {
+     .contactInfo {
       text-align: center;
      display: flex;
      flex-direction: column;
@@ -736,60 +728,61 @@ footer {
         text-align: left; } 
         }
 
-    footer .socialMedia {
+    .socialMedia {
      display: flex;
      justify-content: center;
      align-items: center;
      padding-top: 10%; 
+     color:white;
     }
 
     @media (min-width: 600px) {
-      footer .socialMedia {
+      .socialMedia {
        align-items: stretch;
        justify-content: flex-end;
         padding-top: 0;
          }
-       footer .socialMedia ul {
+       .socialMedia ul {
        color:white;
        list-style: none;
        line-height: 1.5;
        text-align: left; } 
           }
 
-    footer .socialMedia li {
+    .socialMedia li {
       color:white;
       display: inline-block;
       padding-bottom: 5%;
      }
 
       @media (min-width: 600px) {
-        footer .socialMedia li {
+        .socialMedia li {
           display: block; }
            }
 
-      footer .socialMedia li a {
+      .socialMedia li a {
         text-decoration: none; 
         }
 
-      footer .socialMedia li  {
+      .socialMedia li  {
         font-size: 0;
         color: white;
         font-family: "raleway", sans-serif; 
         }
 
         @media (min-width: 600px) {
-          footer .socialMedia li  {
+          .socialMedia li  {
             font-size: 1rem; } 
             }
 
-      footer .socialMedia li i {
+      .socialMedia li i {
         display: inline; 
+        color:white;
         }
-        footer .socialMedia li i:hover {
+        .socialMedia li i:hover {
           color: #e2574c; 
           }
-      footer .socialMedia li .fa {
-        color: white;
+      .socialMedia li .fa {
         font-size: 1rem;
         margin-right: 10px; }
 
