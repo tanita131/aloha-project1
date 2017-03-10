@@ -560,7 +560,7 @@ header {
          width: 25%; }
          }
 
-
+         
        /*signup section*/
 .signup {
         display: flex;
@@ -686,6 +686,8 @@ footer {
       font-family: "playfair", serif;
       line-height: 1.5; 
       color:white;
+      padding-left:5%;
+      padding-right:5%;
       }
 
       @media (min-width: 600px) {
@@ -710,7 +712,7 @@ footer {
      flex-direction: column;
       }
      footer .contactInfo a, footer .contactInfo p {
-      color: white;
+      /*color: white;*/
       padding-bottom: 1%; 
       }
      footer .contactInfo .address {
