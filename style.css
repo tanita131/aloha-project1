@@ -294,6 +294,7 @@ header {
       text-transform: uppercase;
       font-weight: bold;
       font-style: normal;
+      margin-left: 45px;
       text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8);
       }
 
@@ -308,6 +309,7 @@ header {
       font-family: 'playfair', serif;
       font-weight: normal;
       font-style: normal;
+      margin-left: 45px;
       text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8);
       }
       @media (min-width: 600px) {
@@ -342,8 +344,8 @@ header {
        font-size: 16px;
        line-height: 2.25;
        color: #2d2d2d;
-       font-family: 'raleway';
-       font-weight: normal;
+       font-family: 'raleway', sans-serif;
+       font-weight: lighter;
        padding-top: 1%; }
        
 
