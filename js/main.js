@@ -21,4 +21,22 @@ $('.carousel').flickity({
       }
     }
   });
+
+  function isEmail(email) {
+    var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    return regex.test(email);
+  }
+
+  $('form').on('click', '.subscribe', function(){
+   console.log(this)
+   event.preventDefault();
+   var textBoxVal = $('.userInput').val();
+
+   if(isEmail(textBoxVal)){
+    alert('Thanks for Subscribing!');
+   }else{
+    alert('Please enter a valid email address!');
+   }
+  });
+  
 });

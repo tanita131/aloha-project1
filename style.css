@@ -48,81 +48,71 @@ table {
 
 @font-face {
   font-family: 'playfair';
-  src: url("./fonts/webfontkit/playfairdisplay-bold-webfont.eot");
-  src: url("./fonts/webfontkit/playfairdisplay-bold-webfont.eot?#iefix") format("embedded-opentype"),
-       url("./fonts/webfontkit/playfairdisplay-bold-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/playfairdisplay-bold-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/playfairdisplay-bold-webfont.svg#playfair_displaybold") format("svg");
+  src: url("./fonts/playfairdisplay-bold-webfont.eot");
+  src: url("./fonts/playfairdisplay-bold-webfont.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/playfairdisplay-bold-webfont.ttf") format("truetype"), 
+       url("./fonts/playfairdisplay-bold-webfont.svg#playfair_displaybold") format("svg");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'playfair';
-  src: url("./fonts/webfontkit/playfairdisplay-bolditalic-webfont.eot");
-  src: url("./fonts/webfontkit/playfairdisplay-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/playfairdisplay-bolditalic-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/playfairdisplay-bolditalic-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic") format("svg");
+  src: url("./fonts/playfairdisplay-bolditalic-webfont.eot");
+  src: url("./fonts/playfairdisplay-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/playfairdisplay-bolditalic-webfont.ttf") format("truetype"), 
+       url("./fonts/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic") format("svg");
   font-weight: bold;
   font-style: italic; }
 
 @font-face {
   font-family: 'playfair';
-  src: url("./fonts/webfontkit/playfairdisplay-italic-webfont.eot");
-  src: url("./fonts/webfontkit/playfairdisplay-italic-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/playfairdisplay-italic-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/playfairdisplay-italic-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/playfairdisplay-italic-webfont.svg#playfair_displayitalic") format("svg");
+  src: url("./fonts/playfairdisplay-italic-webfont.eot");
+  src: url("./fonts/playfairdisplay-italic-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/playfairdisplay-italic-webfont.ttf") format("truetype"), 
+       url("./fonts/playfairdisplay-italic-webfont.svg#playfair_displayitalic") format("svg");
   font-weight: normal;
   font-style: italic; }
 
 @font-face {
   font-family: 'playfair';
-  src: url("./fonts/webfontkit/playfairdisplay-regular-webfont.eot");
-  src: url("./fonts/webfontkit/playfairdisplay-regular-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/playfairdisplay-regular-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/playfairdisplay-regular-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/playfairdisplay-regular-webfont.svg#playfair_displayregular") format("svg");
+  src: url("./fonts/playfairdisplay-regular-webfont.eot");
+  src: url("./fonts/playfairdisplay-regular-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/playfairdisplay-regular-webfont.ttf") format("truetype"), 
+       url("./fonts/playfairdisplay-regular-webfont.svg#playfair_displayregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'raleway';
-  src: url("./fonts/webfontkit/raleway-light-webfont.eot");
-  src: url("./fonts/webfontkit/raleway-light-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/raleway-light-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/raleway-light-webfont.ttf") format("truetype"),
-       url("./fonts/webfontkit/raleway-light-webfont.svg#ralewaylight") format("svg");
+  src: url("./fonts/raleway-light-webfont.eot");
+  src: url("./fonts/raleway-light-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/raleway-light-webfont.svg#ralewaylight") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'raleway';
-  src: url("./fonts/webfontkit/raleway-lightitalic-webfont.eot");
-  src: url("./fonts/webfontkit/raleway-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/raleway-lightitalic-webfont.woff") format("woff"),
-       url("./fonts/webfontkit/raleway-lightitalic-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/raleway-lightitalic-webfont.svg#ralewaylight_italic") format("svg");
+  src: url("./fonts/raleway-lightitalic-webfont.eot");
+  src: url("./fonts/raleway-lightitalic-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/raleway-lightitalic-webfont.ttf") format("truetype"), 
+       url("./fonts/raleway-lightitalic-webfont.svg#ralewaylight_italic") format("svg");
   font-weight: normal;
   font-style: italic; }
 
 @font-face {
   font-family: 'raleway';
-  src: url("./fonts/webfontkit/raleway-medium-webfont.eot");
-  src: url("./fonts/webfontkit/raleway-medium-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/raleway-medium-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/raleway-medium-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/raleway-medium-webfont.svg#ralewaymedium") format("svg");
+  src: url("./fonts/raleway-medium-webfont.eot");
+  src: url("./fonts/raleway-medium-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/raleway-medium-webfont.svg#ralewaymedium") format("svg");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'raleway';
-  src: url("./fonts/webfontkit/raleway-mediumitalic-webfont.eot");
-  src: url("./fonts/webfontkit/raleway-mediumitalic-webfont.eot?#iefix") format("embedded-opentype"), 
-       url("./fonts/webfontkit/raleway-mediumitalic-webfont.woff") format("woff"), 
-       url("./fonts/webfontkit/raleway-mediumitalic-webfont.ttf") format("truetype"), 
-       url("./fonts/webfontkit/raleway-mediumitalic-webfont.svg#ralewaymedium_italic") format("svg");
+  src: url("./fonts/raleway-mediumitalic-webfont.eot");
+  src: url("./fonts/raleway-mediumitalic-webfont.eot?#iefix") format("embedded-opentype"), 
+       url("./fonts/raleway-mediumitalic-webfont.ttf") format("truetype"), 
+       url("./fonts/raleway-mediumitalic-webfont.svg#ralewaymedium_italic") format("svg");
   font-weight: bold;
   font-style: italic; }
 
@@ -134,7 +124,7 @@ table {
 body {
     color: #2d2d2d;
     width: 100%;
-    font-family: "raleway", sans-serif;
+    font-family: 'raleway', sans-serif;
     font-weight: normal;
     font-style: normal; 
     }
@@ -299,7 +289,7 @@ header {
       /*NEW COLLECTION text */
       h2 {
       font-size: 1.1rem;
-      font-family: "raleway", sans-serif;
+      font-family: 'raleway', sans-serif;
       padding-bottom: 3%;
       text-transform: uppercase;
       font-weight: bold;
@@ -315,7 +305,7 @@ header {
       /*spring-summer text*/
       h3 {
       font-size: 2.5rem;
-      font-family: "playfair", serif;
+      font-family: 'playfair', serif;
       font-weight: normal;
       font-style: normal;
       text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8);
@@ -333,7 +323,7 @@ header {
        }
 
        .handCrafted h4 {
-       font-family: "playfair", serif;
+       font-family: 'playfair', serif;
        font-size: 2.2rem;
        font-weight: normal;
        font-style: italic;
@@ -391,7 +381,7 @@ header {
         text-decoration: none;
         font-size: 1.7rem;
         text-transform: uppercase;
-        font-family: "raleway", sans-serif;
+        font-family: 'raleway', sans-serif;
         font-style: normal;
         text-shadow: 2px 2px 4px rgba(100, 100, 100, 0.8); 
         }
@@ -496,7 +486,7 @@ header {
         margin-bottom: 5%;
         }
         .mostLoved h4 {
-        font-family: "playfair", serif;
+        font-family: 'playfair', serif;
         font-size: 2.2rem;
         font-weight: normal;
         font-style: italic;
@@ -518,7 +508,7 @@ header {
          }
        .mostLoved h5 {
         font-size: 1.3rem;
-        font-family: "playfair", serif;
+        font-family: 'playfair', serif;
         text-transform: capitalize;
         color: #e2574c; 
         font-weight: normal;
@@ -559,8 +549,7 @@ header {
          .mostLoved .carousel .carousel-cell {
          width: 25%; }
          }
-
-         
+          
        /*signup section*/
 .signup {
         display: flex;
@@ -572,7 +561,7 @@ header {
         background-position-y: -510px;
         }
        .signup h4 {
-       font-family: "playfair", serif;
+       font-family: 'playfair', serif;
        font-size: 2.2rem;
        font-weight: normal;
        font-style: italic;
@@ -616,7 +605,7 @@ form {
       position: relative; 
       }
 
-     .signupForm {
+     .signup-form {
       width: 80%;
       display: block;
       margin: 2rem auto 0;
@@ -627,26 +616,26 @@ form {
       padding: 10px;
       }
 
-     .signupForm input[type=email] {
+     .signup-form input[type=email] {
       padding: .5rem 1.75rem;
       padding-right: 150px;
       width: 100%;
       font-size: 0.9rem;
-      font-family: "raleway", sans-serif;
+      font-family: 'raleway', sans-serif;
       border: none; 
       }
 
       @media (min-width: 600px) {
-      .signupForm {
+      .signup-form {
       width: 55%; } 
       }
 
       @media (min-width: 1240px) {
-      .signupForm {
+      .signup-form {
       width: 40%; }
        }
 
-      .signupForm button {
+      .signup-form button {
       background-color: #e2574c;
       border-radius: 50px;
       border: 1px solid #e2574c;
@@ -654,7 +643,7 @@ form {
       font-size: 1rem;
       font-weight: bold;
       line-height: 2.3;
-      font-family: "raleway", sans-serif;
+      font-family: 'raleway', sans-serif;
       cursor: pointer;
       padding: .25rem 1.5rem;
       position: absolute;
@@ -662,7 +651,7 @@ form {
       top: .19rem; 
       }
 
-     .signupForm button:hover {
+     .signup-form button:hover {
       background-color: #b64036; 
       }
 
@@ -683,7 +672,7 @@ footer {
      }
 
       .container {
-      font-family: "playfair", serif;
+      font-family: 'playfair', serif;
       line-height: 1.5; 
       color:white;
       padding-left:5%;
@@ -769,7 +758,7 @@ footer {
       .socialMedia li  {
         font-size: 0;
         color: white;
-        font-family: "raleway", sans-serif; 
+        font-family: 'raleway', sans-serif; 
         }
 
         @media (min-width: 600px) {
