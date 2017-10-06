@@ -1,7 +1,6 @@
 
 $(function() {
   
-
 $('.carousel').flickity({ 
 	    contain: true,
       percentPosition: false,
